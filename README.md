@@ -1,6 +1,6 @@
-# UAPAR
+<div align="center">
 
-### Uncertainty-Aware Pedestrian Attribute Recognition via Evidential Deep Learning
+# Uncertainty-Aware Pedestrian Attribute Recognition via Evidential Deep Learning
 
 **Zhuofan Lou\*** &nbsp;&nbsp; **Shihang Zhang\*** &nbsp;&nbsp; **Fangle Zhu** &nbsp;&nbsp; **Shengjie Ye** &nbsp;&nbsp; **Pingyu Wang†**
 
