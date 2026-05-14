@@ -1,5 +1,3 @@
-<div align="center">
-
 # UAPAR
 
 ### Uncertainty-Aware Pedestrian Attribute Recognition via Evidential Deep Learning
